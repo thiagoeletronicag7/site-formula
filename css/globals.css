@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family: var(--font-global);
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+    margin-top: 9rem;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+h1 {
+    font-size: 6.4rem;
+    font-weight: 700;
+    color: var(--primary-color);
+}
+
+.max-width {
+    width: 100%;
+    max-width: 120rem;
+    padding: 0 4rem;
+    margin: 0 auto;
+    margin-bottom: 26rem;
+} */
+
+.mb-0 {
+    margin-bottom: 0;
+}
